@@ -36,6 +36,13 @@ Rocio Pérez - Project Manager
 
 ## 3. Strategy
 
+The first step under the Elements of User Experience is the Strategy plane,
+which focuses on incorporating not only what the people running the application
+want to get out of it but what the users want to get out of the application.
+
+From this aproach, a Value Proposition Canvas is used to determined what the
+people wants to earn from our solution and how are we gonna respond to those needs.
+
 ![Value Proposition Canvas](./Files/Value_Proposition_Canvas.png)
 
 ---
