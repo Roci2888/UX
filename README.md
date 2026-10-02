@@ -1,7 +1,4 @@
-# Proyecto Plantitas UXD (WIP)
-
-User experience study for Plantitas App
-interior plants health care and search mobile application
+# Project UX
 
 ## Index
 
@@ -38,6 +35,8 @@ Rocio Pérez
 ---
 
 ## 3. Strategy
+
+![Value Proposition Canvas](./Files/Value_Proposition_Canvas.png)
 
 ---
 
