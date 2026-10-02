@@ -26,11 +26,11 @@
 
 ## 2. Team
 
-Diego Aido
+Diego Aido - Designer
 
-Vicente Hernández
+Vicente Hernández - Researcher
 
-Rocio Pérez
+Rocio Pérez - Project Manager
 
 ---
 
