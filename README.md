@@ -83,7 +83,7 @@ experience engaging enough for young digital natives.
 ---
 
 ## 5. Benchmark
-![Benchmark](./Files/Benchmark 1.jpg)
+![Benchmark](./Files/Benchmark1.jpg)
 ![Benchmark](./Files/Benchmark 2.jpg)
 ![Benchmark](./Files/Benchmark 3.jpg)
 ![Benchmark](./Files/Benchmark 4.jpg)
