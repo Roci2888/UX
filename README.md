@@ -84,10 +84,10 @@ experience engaging enough for young digital natives.
 
 ## 5. Benchmark
 ![Benchmark](./Files/Benchmark1.jpg)
-![Benchmark](./Files/Benchmark 2.jpg)
-![Benchmark](./Files/Benchmark 3.jpg)
-![Benchmark](./Files/Benchmark 4.jpg)
-![Benchmark](./Files/Benchmark 5.jpg)
+![Benchmark](./Files/Benchmark2.jpg)
+![Benchmark](./Files/Benchmark3.jpg)
+![Benchmark](./Files/Benchmark4.jpg)
+![Benchmark](./Files/Benchmark5.jpg)
 ---
 
 ## 6. Customer Journey Map
