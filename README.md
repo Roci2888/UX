@@ -88,8 +88,12 @@ experience engaging enough for young digital natives.
 ---
 
 ## 6. Customer Journey Map
-![Customer_Journey_Map_Part1](./Files/Customer_Journey_Map_Part1.png)
-![Customer_Journey_Map_Part2](./Files/Customer_Journey_Map_Part2.png)
+We created a Customer Journey Map to explore how a 5th-grade student might experience our Mapudungun learning application, from discovering it in class to using it regularly. We divided this journey into five stages: awareness, consideration, access and setup, familiarization with the app, and regular use. For each stage, we considered the student's actions, touchpoints, emotions, possible difficulties, and proposed solutions.
+
+The map helped us consider more than the activities offered by the app. Students may feel embarrassed when practicing unfamiliar sounds, struggle with the initial setup, or lose interest if the lessons become repetitive. Our proposed responses include guided access, replayable recordings from traditional educators, and short activities connected to everyday situations and local culture. Throughout the journey, the traditional educator remains an important source of guidance and encouragement.
+
+This map represents our proposed experience rather than findings from user testing. We will need to validate these assumptions with students and traditional educators to understand whether the application supports their learning needs and respects the way Mapudungun is spoken in their communities.
+![Customer_Journey_Map_Part1](./Files/Customer_Journey_Map.png)
 
 ---
 <!--
