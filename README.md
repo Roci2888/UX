@@ -8,9 +8,9 @@ User experience study for an intercultural Mapudungun learning application
 - [2. Team](#2-Team)
 - [3. Strategy](#3-strategy)
 - [4. Solutions Scope](#4-solutions-scope)
-<!--
 - [5. Benchmark](#5-Benchmark)
 - [6. Customer Journey Map](#6-customer-journey-map)
+<!--
 - [7. Navigation](#7-Navigation)
   - [7.1. Initial Aporach](#71-first-aproach)
   - [7.2. Improved Navigation](#72-improved-navigation)
@@ -81,15 +81,18 @@ experience engaging enough for young digital natives.
 ![Person_UX_3](./Files/Person_UX_3.png)
 
 ---
-<!--
+
 ## 5. Benchmark
+![Benchmark](./Files/Benchmark.png)
 
 ---
 
 ## 6. Customer Journey Map
+![Customer_Journey_Map_Part1](./Files/Customer_Journey_Map_Part1.png)
+![Customer_Journey_Map_Part2](./Files/Customer_Journey_Map_Part2.png)
 
 ---
-
+<!--
 ## 7. Navigation
 
 ### 7.1. First Aproach
