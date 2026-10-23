@@ -114,6 +114,13 @@ This map represents our proposed experience rather than findings from user testi
 -->
 
 ## 7. Wireframes
+
+The wireframes present the proposed structure of our Mapudungun learning application. At this stage, we focus on how content is organized, where the main actions are placed, and how students and educators move between screens. These designs provide a starting point for reviewing the application before refining its visual appearance.
+
+We organized the screens around public information, student activities, and teaching tasks. The public screens introduce the project and provide access to sign-in and registration. The student screens include a dashboard, learning materials, and traditional stories (epew), connecting language learning with cultural content. The educator screens cover activity creation, classes and students, assignments, progress reports, teaching resources, and messages.
+
+These wireframes build on the needs considered in our Customer Journey Map, particularly clear access to learning activities and support from the traditional educator. They also help us review whether the proposed features support our goal of teaching Mapudungun through local voices and meaningful cultural contexts. The layouts and navigation still need to be evaluated with students and educators.
+
 ![Material_didactico-La_familia](./Files/Material_didactico-La_familia.png)
 ![Inicio](./Files/Inicio.png)
 ![Mision_y_vision](./Files/Mision_y_vision.png)
