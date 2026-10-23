@@ -85,6 +85,13 @@ experience engaging enough for young digital natives.
 ---
 
 ## 5. Benchmark
+
+We use benchmarking to compare existing solutions and explore ideas for our Mapudungun learning application. Our comparison focuses on aspects relevant to the project, such as navigation, the organization of learning materials, audio resources, student engagement, and support for educators.
+
+The purpose is to identify approaches that could be useful in our context and recognize where our application needs a different approach. For our project, this means considering how digital activities can support oral learning, respect local language varieties, and allow traditional educators to guide the content.
+
+This comparison provides a reference for our design decisions. Any features we choose to adapt will still need to be evaluated with students and traditional educators to understand whether they respond to their needs.
+
 ![Benchmark1](./Files/Benchmark1.jpg)
 ![Benchmark2](./Files/Benchmark2.jpg)
 ![Benchmark3](./Files/Benchmark3.jpg)
