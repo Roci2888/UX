@@ -15,7 +15,7 @@ User experience study for an intercultural Mapudungun learning application
   - [7.1. Initial Aporach](#71-first-aproach)
   - [7.2. Improved Navigation](#72-improved-navigation)
 -->
-- [7. Wireframes](#8-wireframes)
+- [7. Wireframes](#7-wireframes)
 <!--
 - [9. Mockups](#9-mockups)
   - [9.1. Initial Aproach](#91-initial-aproach)
