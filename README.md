@@ -14,7 +14,9 @@ User experience study for an intercultural Mapudungun learning application
 - [7. Navigation](#7-Navigation)
   - [7.1. Initial Aporach](#71-first-aproach)
   - [7.2. Improved Navigation](#72-improved-navigation)
-- [8. Wireframes](#8-wireframes)
+-->
+- [7. Wireframes](#8-wireframes)
+<!--
 - [9. Mockups](#9-mockups)
   - [9.1. Initial Aproach](#91-initial-aproach)
   - [9.2. Improved Mockups](#92-improved-mockups)
@@ -83,11 +85,8 @@ experience engaging enough for young digital natives.
 ---
 
 ## 5. Benchmark
-![Benchmark](./Files/Benchmark1.jpg)
-![Benchmark](./Files/Benchmark2.jpg)
-![Benchmark](./Files/Benchmark3.jpg)
-![Benchmark](./Files/Benchmark4.jpg)
-![Benchmark](./Files/Benchmark5.jpg)
+![Benchmark](./Files/Benchmark.png)
+
 ---
 
 ## 6. Customer Journey Map
@@ -108,10 +107,36 @@ This map represents our proposed experience rather than findings from user testi
 
 ---
 
-## 8. Wireframes
+-->
+
+## 7. Wireframes
+![Material_didactico-La_familia](./Files/Material_didactico-La_familia.png)
+![Inicio](./Files/Inicio.png)
+![Mision_y_vision](./Files/Mision_y_vision.png)
+![Relatos_(epew)](./Files/Relatos_(epew).png)
+![Customer_Journey_Map_Part1](./Files/Customer_Journey_Map.png)
+![Customer_Journey_Map_Part1](./Files/Customer_Journey_Map.png)
+![Customer_Journey_Map_Part1](./Files/Customer_Journey_Map.png)
+![Customer_Journey_Map_Part1](./Files/Customer_Journey_Map.png)
+![Customer_Journey_Map_Part1](./Files/Customer_Journey_Map.png)
+![Customer_Journey_Map_Part1](./Files/Customer_Journey_Map.png)
+![Customer_Journey_Map_Part1](./Files/Customer_Journey_Map.png)
+![Customer_Journey_Map_Part1](./Files/Customer_Journey_Map.png)
+![Customer_Journey_Map_Part1](./Files/Customer_Journey_Map.png)
+![Customer_Journey_Map_Part1](./Files/Customer_Journey_Map.png)
+![Customer_Journey_Map_Part1](./Files/Customer_Journey_Map.png)
+![Customer_Journey_Map_Part1](./Files/Customer_Journey_Map.png)
+![Customer_Journey_Map_Part1](./Files/Customer_Journey_Map.png)
+![Customer_Journey_Map_Part1](./Files/Customer_Journey_Map.png)
+![Customer_Journey_Map_Part1](./Files/Customer_Journey_Map.png)
+![Customer_Journey_Map_Part1](./Files/Customer_Journey_Map.png)
+![Customer_Journey_Map_Part1](./Files/Customer_Journey_Map.png)
+![Customer_Journey_Map_Part1](./Files/Customer_Journey_Map.png)
+![Customer_Journey_Map_Part1](./Files/Customer_Journey_Map.png)
 
 ---
 
+<!--
 ## 9. Mockups
 
 ### 9.1. Initial Aproach
